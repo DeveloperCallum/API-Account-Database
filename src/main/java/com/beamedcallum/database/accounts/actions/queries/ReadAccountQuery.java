@@ -1,4 +1,4 @@
-package com.beamedcallum.database.accounts;
+package com.beamedcallum.database.accounts.actions.queries;
 
 import com.beamedcallum.database.Database;
 import com.beamedcallum.database.DatabaseQuery;
